@@ -36,7 +36,12 @@ namespace Test4_24S
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            string x = textBox1.Text;
+            string y = textBox2.Text;
+            string z = textBox3.Text;
+            string q = textBox4.Text;
+            y = x; z = q; x = z;
+            textBox2.Text = x.ToString(); textBox3.Text = y.ToString(); textBox4.Text = z.ToString();
 
         }
 
