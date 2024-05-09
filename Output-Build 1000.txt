@@ -1,0 +1,7 @@
+﻿Build started at 03:13 م...
+1>------ Build started: Project: Test4-24S, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Users\Muath\Source\Repos\Test4-24S\Test4-24S\Form1.cs(59,10,59,17): error CS1513: } expected
+1>Done building project "Test4-24S.csproj" -- FAILED.
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 03:13 م and took 00.492 seconds ==========
